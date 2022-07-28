@@ -1,1 +1,2 @@
-My name is Eddie
+My name is Eddie.
+I'm a new line.
